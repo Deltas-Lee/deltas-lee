@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F4M2cybDY1NnlwNTkxNzl2ZGtraTFvMnIwaWV2aTBraGN3ejhneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeRdg7gLkfK1ly2mFU/giphy.gif"  />
 
 <p align="left">With 5 years of experience, I specialise in building robust web and mobile applications using .NET, JavaScript, and Flutter frameworks. I have a deep interest in software architecture, scalable solutions, and creating seamless user experiences. 🚀</p>
 
