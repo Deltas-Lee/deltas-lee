@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋 I'm Deltas, a passionate Software Engineer from South Africa 🇿🇦</h2>
+<h2 align="left">Hi there! 👋 I'm Deltas, a passionate App & Software Developer from South Africa</h2>
 
 ###
 
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="bootstrap "  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" title="angularjs "  />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" title="angular "  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="react "  />
   <img width="12" />
@@ -175,7 +175,7 @@
 
 ###
 
-<p align="left">🏦 A Capitec Bank app clone built from scratch to demonstrate my mobile app development skills, including UI design <br>🌱 A Mental Hetitleh Chatbot app using Next.js and AI integrations </p>
+<p align="left">🏦 A Capitec Bank app clone built from scratch using Flutter to demonstrate my mobile app development skills, including UI design <br>🌱 A Mental Health Chatbot app using Next.js and AI integrations </p>
 
 ###
 
@@ -183,6 +183,6 @@
 
 ###
 
-<h4 align="left">🥇 Software Development, AI (Machine Learning), Mobile Application Development & Business Development.<br><br>Feel free to explore my repositories, ask questions, or say hi! I love collaborating on cool projects and learning from others. 😊</h4>
+<h4 align="left">🥇 Software Development, AI (Machine Learning), Mobile Application Development & Business Development.<br><be><br>Feel free to explore my repositories, ask questions, or say hi! I love collaborating on cool projects and learning from others. 😊</h4>
 
 ###
