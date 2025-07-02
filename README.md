@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋 I'm Deltas, a passionate App & Software Developer from South Africa</h2>
+<h2 align="left">Hi there! 👋 I'm Deltas, a passionate app & software developer from South Africa</h2>
 
 ###
 
