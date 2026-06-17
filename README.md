@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:06B6D4&height=180&section=header&text=Hi,%20I'm%20Deltas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner" />
 
 <a href="https://github.com/Deltas-Lee">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;+Senior+Frontend+Engineer;React+%26+Next.js+Specialist;Building+fast,+accessible+web+apps;Design+systems+%26+performance+nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer;React+%26+Next.js+Specialist;Design+systems+%26+performance+nerd;Building+accessible,+fast+web+apps" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,14 +26,13 @@
 
 ## 👨🏽‍💻 About
 
-I'm a software engineer who cares about every part of the software: performance, accessibility, secure, and clean, maintainable interfaces. Over the past 5+ years I've built web and mobile applications across the stack, and today I specialise in architecting **React** and **Next.js** front ends backed by typed, testable codebases.
+Staff-level frontend engineer focused on design systems, performance architecture, and accessibility at scale — currently leading frontend architecture at **LexisNexis France**, where I drive migration from legacy Angular monoliths to a modern React/Next.js stack.
 
-I enjoy turning complex problems into simple, intuitive experiences — and I care just as much about the design system and developer experience behind them as the pixels on screen.
+Core areas of depth: component library design, Core Web Vitals optimization, WCAG 2.1 AA compliance, and developer tooling. I regularly mentor mid-level engineers through code review and architecture decisions.
 
-- 🔭 Currently working as an engineer at **LexisNexis France**
-- 🌱 Going deep on **React, Microfrontends, and AI-powered interfaces**
-- 🤝 Happy to collaborate on ambitious frontend & product work
-- ⚡ Off the clock: video games 🎮 and learning something new on YouTube
+- 🔭 **Current:** Frontend architecture & design systems at **LexisNexis France**
+- 🌱 **Exploring:** Microfrontend composition, AI-augmented UI patterns, React Server Components
+- 🤝 **Seeking:** Senior/Staff Frontend roles where I can own technical direction and platform decisions
 
 ---
 
@@ -52,9 +51,9 @@ I enjoy turning complex problems into simple, intuitive experiences — and I ca
 
 **Tooling & Testing**
 
-![Vite](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Jest](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -79,7 +78,7 @@ I enjoy turning complex problems into simple, intuitive experiences — and I ca
 - Champion accessibility (WCAG 2.1 AA) and Core Web Vitals as first-class engineering metrics; mentor mid-level engineers in code review and frontend best practices.
 - **Stack:** React, Next.js, TypeScript, Tailwind CSS, Storybook, .NET APIs, Azure
 
-**Flutter Developer** · *Mzansi WebApps* — South Africa · `Jan 2023 - present`
+**Flutter Developer** · *Mzansi WebApps* — South Africa · `Jan 2021 – Dec 2022`
 - Built responsive, data-heavy dashboards in **React** and **Angular** for fintech and enterprise clients.
 - Introduced **Jest** and component-level testing to a previously untested codebase, raising coverage from ~10% to 75%.
 - Collaborated closely with designers in **Figma** to ship pixel-accurate, reusable UI components.
@@ -99,7 +98,7 @@ I enjoy turning complex problems into simple, intuitive experiences — and I ca
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 Mental Health Chatbot</h3>
+      <h3><a href="https://github.com/Deltas-Lee/mental-health-chatbot">🌱 Mental Health Chatbot</a></h3>
       <p>An AI-powered support chatbot built with <b>Next.js</b> and modern LLM integrations — focused on a calm, accessible conversational UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -108,7 +107,7 @@ I enjoy turning complex problems into simple, intuitive experiences — and I ca
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 Capitec Bank App Clone</h3>
+      <h3><a href="https://github.com/Deltas-Lee/capitec-bank-clone">🏦 Capitec Bank App Clone</a></h3>
       <p>A pixel-faithful banking app rebuilt from scratch in <b>Flutter</b> to showcase UI engineering, state management, and mobile design fidelity.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -122,32 +121,19 @@ I enjoy turning complex problems into simple, intuitive experiences — and I ca
 
 ---
 
-## 📊 GitHub Activity
+## 🏗️ Key Impact
 
-<div align="center">
+**Angular → Next.js migration** — Led the incremental migration of a legacy Angular monolith to Next.js App Router at LexisNexis. Solved framework coexistence via a microfrontend shell routing by path prefix, enabling squad-by-squad adoption without downtime. Result: **40% improvement in LCP** and **30% faster feature delivery**.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deltas-Lee&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&disable_animations=false" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deltas-Lee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+**Design system architecture** — Built a shared React + TypeScript component library (Storybook, Chromatic visual regression, strict generic APIs) serving 4 squads. Cut UI development time by ~30% and enforced consistent UX across legal research products serving thousands of daily professional users.
 
-<img height="165" src="https://streak-stats.demolab.com?user=Deltas-Lee&mode=daily&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub streak" />
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deltas-Lee/Deltas-Lee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deltas-Lee/Deltas-Lee/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Deltas-Lee/Deltas-Lee/output/github-snake.svg" />
-</picture>
-
-</div>
+**Testing culture shift** — Introduced Jest + React Testing Library to an untested codebase, scaling coverage from ~10% to **75%** in 6 months using risk-prioritized testing rather than blanket coverage mandates.
 
 ---
 
 <div align="center">
 
-### 💬 Let's build something great together.
-
-Open to senior frontend roles, collaborations, and interesting product conversations.
+### 💬 Seeking a Senior/Staff Frontend role where I can own architecture, design systems, and frontend platform decisions.
 
 <a href="mailto:deltaslep@gmail.com">deltaslep@gmail.com</a>
 
