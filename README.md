@@ -26,12 +26,12 @@
 
 ## 👨🏽‍💻 About
 
-Staff-level frontend engineer focused on design systems, performance architecture, and accessibility at scale — currently leading frontend architecture at **LexisNexis France**, where I drive migration from legacy Angular monoliths to a modern React/Next.js stack.
+Staff-level frontend engineer focused on design systems, performance architecture, and accessibility at scale — currently leading frontend architecture at **LexisNexis France**, where I drive migration from legacy Windows Form monoliths to a modern Angular and React/Next.js stack.
 
 Core areas of depth: component library design, Core Web Vitals optimization, WCAG 2.1 AA compliance, and developer tooling. I regularly mentor mid-level engineers through code review and architecture decisions.
 
-- 🔭 **Current:** Frontend architecture & design systems at **LexisNexis France**
-- 🌱 **Exploring:** Microfrontend composition, AI-augmented UI patterns, React Server Components
+- 🔭 **Current:** Full-stack Development & design systems at **LexisNexis France**
+- 🌱 **Exploring:** Microfrontend composition, AI-augmented UI patterns, and .Net Microservices
 - 🤝 **Seeking:** Senior/Staff Frontend roles where I can own technical direction and platform decisions
 
 ---
@@ -73,21 +73,21 @@ Core areas of depth: component library design, Core Web Vitals optimization, WCA
 
 **Software Engineer** · *LexisNexis* — France (Remote) · `Feb 2023 – Present`
 - Works on legal research products serving thousands of daily professional users.
-- Architected a shared **React + TypeScript** component library and **Storybook** design system, cutting feature delivery time by ~30% across squads.
-- Drove the incremental migration of legacy **Angular** modules to a modern **Next.js** stack, improving Largest Contentful Paint by ~40%.
+- Architected a shared **Angular + TypeScript** component library and **Storybook** design system, cutting feature delivery time by ~30% across squads.
+- Drove the incremental migration of legacy **WindowsForm** modules to a modern **Angular** stack, improving Largest Contentful Paint by ~40%.
 - Champion accessibility (WCAG 2.1 AA) and Core Web Vitals as first-class engineering metrics; mentor mid-level engineers in code review and frontend best practices.
-- **Stack:** React, Next.js, TypeScript, Tailwind CSS, Storybook, .NET APIs, Azure
+- **Stack:** Angular, React, Next.js, TypeScript, Tailwind CSS, Storybook, .NET APIs, Azure
 
-**Flutter Developer** · *Mzansi WebApps* — South Africa · `Jan 2021 – Dec 2022`
-- Built responsive, data-heavy dashboards in **React** and **Angular** for fintech and enterprise clients.
+**Flutter Developer** · *Mzansi WebApps* — South Africa · `Jan 2021 – present`
+- Built responsive, data-heavy dashboards in **React** and **Next.js** for fintech and enterprise clients.
 - Introduced **Jest** and component-level testing to a previously untested codebase, raising coverage from ~10% to 75%.
 - Collaborated closely with designers in **Figma** to ship pixel-accurate, reusable UI components.
-- **Stack:** React, Angular, TypeScript, JavaScript, SCSS, Node.js
+- **Stack:** React, Angular, TypeScript, TailwindCSS, SCSS, Node.js, Flutter, and Dart
 
 **Software Developer** · *AOLC* — South Africa · `Jan 2021 – Feb 2022`
-- Delivered customer-facing web and **Flutter** mobile features end to end in a fast-paced startup environment.
+- Delivered internal-facing web-apps and systems end to end in a fast-paced startup environment.
 - Implemented CI/CD pipelines with **GitHub Actions**, reducing manual release effort and deployment errors.
-- **Stack:** JavaScript, React, Flutter, .NET, PostgreSQL, Docker
+- **Stack:** C# .NET, Blazor, APSNET MVC, SQL, Restful API, Git & GitHub
 
 > *Open to senior frontend opportunities — see my [LinkedIn](https://www.linkedin.com/in/deltas-lee/) for the full history.*
 
@@ -123,11 +123,11 @@ Core areas of depth: component library design, Core Web Vitals optimization, WCA
 
 ## 🏗️ Key Impact
 
-**Angular → Next.js migration** — Led the incremental migration of a legacy Angular monolith to Next.js App Router at LexisNexis. Solved framework coexistence via a microfrontend shell routing by path prefix, enabling squad-by-squad adoption without downtime. Result: **40% improvement in LCP** and **30% faster feature delivery**.
+**WindowsForm → Angular+TypeScript migration** — Led the incremental migration of a legacy WindowsForm monolith to modern Angular app at LexisNexis. Solved framework coexistence via a microfrontend shell routing by path prefix, enabling squad-by-squad adoption without downtime. Result: **40% improvement in LCP** and **30% faster feature delivery**.
 
-**Design system architecture** — Built a shared React + TypeScript component library (Storybook, Chromatic visual regression, strict generic APIs) serving 4 squads. Cut UI development time by ~30% and enforced consistent UX across legal research products serving thousands of daily professional users.
+**Design system architecture** — Built a shared Angular + TypeScript component library (Storybook, Chromatic visual regression, strict generic APIs) serving 4 squads. Cut UI development time by ~30% and enforced consistent UX across legal research products serving thousands of daily professional users.
 
-**Testing culture shift** — Introduced Jest + React Testing Library to an untested codebase, scaling coverage from ~10% to **75%** in 6 months using risk-prioritized testing rather than blanket coverage mandates.
+**Testing culture shift** — Introduced Cypress + Angular Testing Library to an untested codebase, scaling coverage from ~10% to **75%** in 6 months using risk-prioritized testing rather than blanket coverage mandates.
 
 ---
 
